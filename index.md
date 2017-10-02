@@ -2,9 +2,9 @@
 
 Hello There. Thanks for visiting my site. 
 
-I am Devendra (Dev) Naga, 26 yr old age, a software developer / maintainer and a creator of much scalable and creative software systems, architectures, packages and tools.
+I am Devendra (Dev) Naga, 27 yr old age, a software architect / developer / maintainer and a creator of much scalable and creative software systems, architectures, packages and tools.
 
-I am currently working at [Savari](www.savari.net) as a Software Technical Lead to their products (RSU, OBU, VAD and SFAD). I have over Six years of work experience and field expertise. I have extensively worked in programming languages such as ```C```, ```Shell``` and ```Python```. I do have a basic proficiency in ```GoLang``` and also i have started learning on ```Erlang``` and ```rust```. 
+I am currently working at [Savari](www.savari.net) as a Software Technical Lead to their products (RSU, OBU, VAD and SFAD) and the V2X software stack. I have over Eight years of work experience and field expertise. I have extensively worked in programming languages such as ```C```, ```Shell``` and ```Python```. I do have a basic proficiency in ```GoLang``` and also i have started learning on ```Erlang``` and ```rust```. 
 
 I am currently looking for a challenging job in Automotive / Linux / Embedded / Virtualization based domains.
 
@@ -12,18 +12,21 @@ If interested Please email me here: <devendra.aaru@gmail.com>
 
 Here are my Skills and Expertise, project and products that i have worked / currently working on:
 
+### Patents:
+
+1. US 2016/0036558 A1 (http://www.google.com/patents/US20160036558)
 
 ## Skill set:
 
-I have 6 years of expertise in the field of DSRC in US and EU regions in the following.
+I have 8 years of expertise in the field of V2X in US and EU regions in the following.
 
-### US region:
+### US region - Standards:
 ```
 1. 1609.3 2009/16
 2. SAE J2735 - 2009/15/16
 3. 1609.2 2009/16
 4. 1609.4 interfaces
-5. J2945
+5. J2945 201603
 ```
 ### EU region:
 ```
@@ -31,26 +34,29 @@ I have 6 years of expertise in the field of DSRC in US and EU regions in the fol
 2. CAM
 3. DENM
 4. LDM
-5. Geonetworking interfaces to L2 (ITS-G5)
-6. Security and PKI
-7. C2C CC (Car 2 Car consortium) specs on safety and interoperability
+5. MAP / SPAT
+6. IVI
+7. Geonetworking interfaces to L2 (ITS-G5)
+8. Security and PKI
+9. C2C CC (Car 2 Car consortium) specs on safety and interoperability
 ```
 
 
 ### Programming Languages
 ```
-1. C
-2. Shell
-3. Python
-4. GoLang
+1. C           -   Expert
+2. Shell       -   medium
+3. Python      -   basic
 ```
+
 ### Operating systems:
 ```
-1. Linux 2.6, 3.x
-2. QNX 6.5 Neutrino
-3. ThreadX
+1. Linux 2.6, 3.x          - Expert
+2. QNX 6.5 Neutrino, 6.6   - Medium
+3. ThreadX                 - Lost touch but can pick up
 
 ```
+
 ### opensource software, build systems and tools
 ```
 1. OpenWRT
@@ -66,6 +72,7 @@ I have 6 years of expertise in the field of DSRC in US and EU regions in the fol
 11. Docker
 12. Subversion (SVN)
 ```
+
 ### Also contributed to / patched:
 ```
 1. Linux kernel
@@ -81,7 +88,7 @@ During my time, i have created highly scalable, modular, easily attachable / det
 
 ## Projects:
 
-### Here are the major projects that i have worked on:
+### Here are the major projects that i have worked on from 2010 till date:
 
 ```
 1. AnnArbor USDOT safetypilot modeldeployment
@@ -90,11 +97,21 @@ During my time, i have created highly scalable, modular, easily attachable / det
 4. USDOT 3.6 VAD specification implementation
 5. CAMP v2v task - I and II - 2010 to 2014
 6. CAMP V2I project 2015
-6. ITS WorldCongress 2014 - Demo of V2V safety applications
+7. ITS WorldCongress 2014 - Demo of V2V safety applications
+8. C2C CC test fest - 2016 Germany
+9. ETSI ITS CMS5 Plugtest - 2016 Italy
+10. Secure Over the Air (OTA) update to V2X system - 2017 North America
+```
+
+### Some of the smartcity projects involved are below:
+
+```
+1. Smarcity - Tampa V2X Pilot - 2017
+2. Smartcity - NYC V2X Pilot - 2017
 ```
 
 
-### Here are the list of minor projects that i have worked on:
+### Here are the list of very small to minor projects that i have worked on:
 ```
 1. CAN translator for Hyundai KIA vehicles
    (Hyundai KIA format to a standard common message format)
