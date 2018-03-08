@@ -2,11 +2,11 @@
 
 Hello There. Thanks for visiting my site. 
 
-I am Devendra (Dev) Naga, 27 yr old age, a software architect / developer / maintainer and a creator of much scalable and creative software systems, architectures, packages and tools.
+I am Devendra (Dev) Naga, 28 yr old age, > 8yrs of experienced software architect / developer / maintainer and a creator of much scalable and creative software systems, architectures, packages and tools.
 
-I am currently working at [Savari](www.savari.net) as a Software Technical Lead to their products (RSU, OBU, VAD and SFAD) and the V2X software stack. I have over Eight years of work experience and field expertise. I have extensively worked in programming languages such as ```C```, ```Shell``` and ```Python```. I do have a basic proficiency in ```GoLang``` and also i have started learning on ```Erlang``` and ```rust```. 
+I am currently working at [Savari](www.savari.net) as a Software Architect to their products (RSU, OBU, VAD and SFAD) and the V2X software stack and leading the smartcity development activities especially in *NYC* and *TAMPA Bay*. I have over Eight years of work experience and field expertise. I have extensively worked in programming languages such as ```C```, ```Shell``` and ```Python```. I am capable of picking up any new programming language very quickly and do the work in it.
 
-I am currently looking for a challenging job in Automotive / Linux / Embedded / Virtualization based domains.
+I am currently looking for a challenging job in Vehicular Data Analytics / Automotive / Linux / Embedded / Virtualization based domains.
 
 If interested Please email me here: <devendra.aaru@gmail.com>
 
@@ -20,15 +20,17 @@ Here are my Skills and Expertise, project and products that i have worked / curr
 
 I have 8 years of expertise in the field of V2X in US and EU regions in the following.
 
+### Standards worked on
+
 ### US region - Standards:
 ```
 1. 1609.3 2009/16
 2. SAE J2735 - 2009/15/16
 3. 1609.2 2009/16
 4. 1609.4 interfaces
-5. J2945 201603
+5. J2945/1 201603
 ```
-### EU region:
+### EU region - Standards:
 ```
 1. Geonetworking
 2. CAM
@@ -41,15 +43,14 @@ I have 8 years of expertise in the field of V2X in US and EU regions in the foll
 9. C2C CC (Car 2 Car consortium) specs on safety and interoperability
 ```
 
-
-### Programming Languages
+## Programming Languages
 ```
 1. C           -   Expert
 2. Shell       -   medium
 3. Python      -   basic
 ```
 
-### Operating systems:
+## Operating systems:
 ```
 1. Linux 2.6, 3.x          - Expert
 2. QNX 6.5 Neutrino, 6.6   - Medium
@@ -57,7 +58,7 @@ I have 8 years of expertise in the field of V2X in US and EU regions in the foll
 
 ```
 
-### opensource software, build systems and tools
+### opensource software, build systems and tools used / familiar with
 ```
 1. OpenWRT
 2. LTIB
@@ -69,11 +70,13 @@ I have 8 years of expertise in the field of V2X in US and EU regions in the foll
 8. perf
 9. Linux Kernel
 10. Travis-CI
-11. Docker
-12. Subversion (SVN)
+11. Jenkins 
+12. Gerrit
+13. Docker
+14. Subversion (SVN)
 ```
 
-### Also contributed to / patched:
+### Also contributed to / sent patches to the open-source community on:
 ```
 1. Linux kernel
 2. busybox
@@ -82,7 +85,7 @@ I have 8 years of expertise in the field of V2X in US and EU regions in the foll
 5. OpenWRT
 ```
 
-Being in Savari, i have developed their products from ground up ( from ground up) with a team of just 2 to 3 people.
+Being in Savari, i have developed their products from ground up with a team of just 2 to 3 people.
 
 During my time, i have created highly scalable, modular, easily attachable / detachable architecture for the whole product line.
 
@@ -101,13 +104,16 @@ During my time, i have created highly scalable, modular, easily attachable / det
 8. C2C CC test fest - 2016 Germany
 9. ETSI ITS CMS5 Plugtest - 2016 Italy
 10. Secure Over the Air (OTA) update to V2X system - 2017 North America
+11. TAMPA smartcity pilot - 2017 - 2018 North America
+12. NYC smartcity pilot - 2017 - 2018 North America
+13. Ann Arbor safety pilot - 2017 - 2018 North America
 ```
 
 ### Some of the smartcity projects involved are below:
 
 ```
-1. Smarcity - Tampa V2X Pilot - 2017
-2. Smartcity - NYC V2X Pilot - 2017
+1. Smarcity - Tampa V2X Pilot - 2017 - 2018
+2. Smartcity - NYC V2X Pilot - 2017 - 2018
 ```
 
 
@@ -165,6 +171,3 @@ My pubic code [Gists](https://gist.github.com/DevNaga) (or in easier terms, a us
 2. Volunteering open-source software work
 ```
 
-
-
-*P.S* : This page is edited with a GitHub online markdown editor. Props to GitHub for the awesomeness. 
