@@ -2,11 +2,19 @@
 
 Hello There. Thanks for visiting my site. 
 
-I am Devendra (Dev) Naga, 28 yr old age, > 8yrs of experienced software architect / developer / maintainer and a creator of much scalable and creative software systems, architectures, packages and tools.
+I am Devendra (Dev) Naga, 29 yr old age, > 9 yrs of experienced software architect / developer / maintainer and a creator of much scalable and creative software systems, architectures, packages and tools.
 
-I am currently working at [Savari](www.savari.net) as a Software Architect to their products (RSU, OBU, VAD and SFAD) and the V2X software stack and leading the smartcity development activities especially in *NYC* and *TAMPA Bay*. I have over Eight years of work experience and field expertise. I have extensively worked in programming languages such as ```C```, ```Shell``` and ```Python```. I am capable of picking up any new programming language very quickly and do the work in it.
+**current work**
 
-I am currently looking for a challenging job in Vehicular Data Analytics / Automotive / Linux / Embedded / Virtualization based domains.
+I am currently working as Advanced Technical Lead - ProdMgmt on L4 autonomous drivesystem (ROS, ROS2) + V2X software stack and the application.
+
+**previous work**
+
+Software Technical Arhictect - V2X, Smartcities (NYC and TAMPA - total of 8M$ projects in one year)
+
+I have over Nine years of work experience and field expertise. I have extensively worked in programming languages such as ```C```, `C++`, ```Shell``` and ```Python```. I am capable of picking up any new programming language very quickly.
+
+I am currently looking for a challenging job in Automated vehicles / Vehicular Data Analytics / Automotive / Linux / Embedded / Virtualization based domains.
 
 If interested Please email me here: <devendra.aaru@gmail.com>
 
@@ -18,72 +26,84 @@ Here are my Skills and Expertise, project and products that i have worked / curr
 
 ## Skill set:
 
-I have 8 years of expertise in the field of V2X in US and EU regions in the following.
+I have 9 years of expertise in the field of V2X in US and EU regions in the following and 1 year of experience in autonomous driving and ROS, ROS2.
 
 ### Standards worked on
 
 ### US region - Standards:
-```
-1. 1609.3 2009/16
-2. SAE J2735 - 2009/15/16
-3. 1609.2 2009/16
-4. 1609.4 interfaces
-5. J2945/1 201603
-```
+
+| item |  standard |
+|------|----------|
+|1. | 1609.3 2009/16 |
+|2. | SAE J2735 - 2009/15/16 |
+|3. | 1609.2 2009/16 |
+|4. | 1609.4 2009/2011 |
+|5. | J2945/1 201603 |
+
 ### EU region - Standards:
-```
-1. Geonetworking
-2. CAM
-3. DENM
-4. LDM
-5. MAP / SPAT
-6. IVI
-7. Geonetworking interfaces to L2 (ITS-G5)
-8. Security and PKI
-9. C2C CC (Car 2 Car consortium) specs on safety and interoperability
-```
+
+| item | standard |
+|------|----------|
+| 1. | Geonetworking |
+| 2. | CAM |
+| 3. | DENM |
+| 4. | LDM |
+| 5. | MAP / SPAT |
+| 6. | IVI |
+| 7. | Geonetworking interfaces to L2 (ITS-G5) |
+| 8. | Security and PKI |
+| 9. | C2C CC (Car 2 Car consortium) specs on safety and interoperability |
 
 ## Programming Languages
-```
-1. C           -   Expert
-2. Shell       -   medium
-3. Python      -   basic
-```
+
+| language | expertise |
+|----------|-----------|
+| 1. C     |   Expert       |
+| 2. C++   |   intermediate |
+| 3. Shell |   intermediate |
+| 4. Python |   basic       |
+
 
 ## Operating systems:
-```
-1. Linux 2.6, 3.x          - Expert
-2. QNX 6.5 Neutrino, 6.6   - Medium
-3. ThreadX                 - Lost touch but can pick up
 
-```
+| OS | expertise |
+|----|-----------|
+| 1. Linux 2.6, 3.x  |         Expert |
+| 2. QNX 6.5 Neutrino, 6.6   | intermediate |
+| 3. ThreadX           |      basic |
+
 
 ### opensource software, build systems and tools used / familiar with
-```
-1. OpenWRT
-2. LTIB
-3. tcpdump and libpcap
-4. busybox
-5. GPSd
-6. Git
-7. nmap
-8. perf
-9. Linux Kernel
-10. Travis-CI
-11. Jenkins 
-12. Gerrit
-13. Docker
-14. Subversion (SVN)
-```
+
+| item | software technology |
+|------|---------------------|
+| 1. | OpenWRT |
+| 2. | LTIB | 
+| 3. | tcpdump and libpcap |
+| 4. | busybox |
+| 5. | GPSd | 
+| 6. | Git |
+| 7. | nmap |
+| 8. | perf |
+| 9.  | Linux Kernel |
+| 10. | Travis-CI |
+| 11. | Jenkins  |
+| 12. | Gerrit |
+| 13. | Docker |
+| 14. | Subversion (SVN) |
+| 15. | ros |
+| 16. | ros2 |
+
 
 ### Also contributed to / sent patches to the open-source community on:
-```
-1. Linux kernel
-2. busybox
-3. GPSd
-4. tcpdump and libpcap
-5. OpenWRT
-```
+
+| item | software technology |
+|------|---------------------|
+| 1. | Linux kernel |
+| 2. | busybox |
+| 3. | GPSd |
+| 4. | tcpdump and libpcap |
+| 5. | OpenWRT |
 
 Being in Savari, i have developed their products from ground up with a team of just 2 to 3 people.
 
